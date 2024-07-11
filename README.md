@@ -1,4 +1,4 @@
-As a hobby project, a driving controller for an electric-powered children's car is developed.
+As a hobby project, a driving controller for an electric-powered children's car is developed. The basic functionality is realized on AVR Atmega8-16AU microcontroller.
 
 ## Its main objectives are:
 - Smooth PWM control of the electric motors power at starting and stopping to ensure smooth running and minimize abrupt loads of mechanical gearbox units.
